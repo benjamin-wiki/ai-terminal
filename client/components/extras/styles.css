@@ -1,0 +1,33 @@
+.terminal {
+  background-color: #000000;
+  color: 	#fdf2e2;
+  padding: 10px;
+  /* padding-top: 20px; */
+  padding-left: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  white-space: pre;
+  /* width: 99%;  */
+  height: 100vh;
+}
+
+.terminal-input {
+  background-color: #000000;
+  /* color: cornflowerblue; */
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  color: 	#fdf2e2;
+  caret-color: 	#fdf2e2;
+  border: none;
+  outline: none;
+  width: 95%;
+}
+
+.cashLine {
+  color: #fdf2e2;
+}
+.benjamins {
+  color: 	#0f0;
+}
+.dir {
+  color: #eae;
+}
